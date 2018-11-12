@@ -21,10 +21,10 @@ With this information we can compare, at each moment, which news is more importa
 All these analyzes are beyond the scope of the current work.
 
 ### Team members
-The work has been developed by ** Esteban Bordallo Valbuena ** individually.
+The work has been developed by **Esteban Bordallo Valbuen ** individually.
 
 ### Source files
-The code is implemented in the jupyter notebook ** Newspaper-Cover-Scraping.ipynb **
+The code is implemented in the jupyter notebook **Newspaper-Cover-Scraping.ipynb**
 
 ### Complementary files
 * **CSV / medias.csv**: flat file, in CSV format with scraping data.
